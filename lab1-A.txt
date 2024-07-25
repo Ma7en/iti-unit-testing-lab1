@@ -1,0 +1,122 @@
+// =================================================================
+// =================================================================
+// Mazen Abdeltawab Saad
+// Lab1 - Testing
+
+
+
+Lab 1
+1- True or False:
+
+Why is Testing necessary?
+    1- because software is likely to have faults
+    [True]
+
+    2- To learn about the reliability of the software
+    [True]
+    
+    3- To fill the time between the delivery of the software and the release date
+    [False]
+    
+    4- To prove that the software has no faults
+    [False]
+    
+    5- Because testing is included in the project plan
+    [True]
+    
+    6- Because failures can be very expensive
+    [True]
+    
+    7- To avoid being sued by customers
+    [True]
+    
+    8- To stay in business
+    [False]
+
+
+2- compare between :
+    1- functional and non-functional testing
+
+        -> Functional Testing:
+            - Involves verifying that the system functions as expected.
+            - Example:- Testing user login functionality.
+        
+        -> Non-functional Testing:
+            - Focuses on non-functional aspects like performance, usability, and security.
+            - Example:- Testing system response time.
+
+
+    2- black box, white box, and gray box
+        -> Black Box Testing:
+            - Testing the system without knowing its internal structure.
+            - Example: User interface testing.
+        
+        -> White Box Testing:
+            - Involves testing the internal structure and code.
+            - Example:- Unit testing.
+        
+        -> Gray Box Testing:
+            - A mix of black box and white box testing, where the tester has some knowledge of the internal structure.
+            - Example: Security testing with some knowledge of internal architecture.
+        
+        Source :-
+            - https://www.geeksforgeeks.org/difference-between-black-box-vs-white-vs-grey-box-testing/
+
+    
+    
+    3- What is the SDLC?
+        -> SDLC (Software Development Life Cycle):
+            - A process that includes the steps of developing software from planning to maintenance.
+            - Includes phases: Analysis, Design, Development(Implementation), Testing, and Evolution.
+
+
+    4- What are the Testing levels?
+        -> Unit Testing:
+            - Testing individual components of the system.
+        
+        -> Integration Testing:
+            - Testing integrated modules of the system.
+        
+        -> System Testing:
+            - Testing the entire system as a whole.
+        
+        -> Acceptance Testing:
+            - Testing by the end-user to ensure the system meets the requirements.
+    
+
+    5- What are the Testing Types?
+        -> Manual Testing
+        -> Automation Testing
+
+
+    6- [Bouns] search for the difference between TDD and DDD and BDD :- 
+        -> TDD (Test-Driven Development):- 
+            - A software development approach where tests are written before code.
+        
+        -> DDD (Domain-Driven Design):- 
+            - A software design approach focusing on the project's specific domain.
+        
+        -> BDD (Behavior-Driven Development):-
+            - A software development approach focusing on the expected behavior of the system as defined by the user.
+        
+        Source :-
+            - https://www.linkedin.com/pulse/tdd-vs-bdd-ddd-vitalii-serdiuk
+    
+    
+    7- Who does Testing?
+        -> Developers:
+            - Typically perform unit testing.
+        
+        -> Project Lead/Manager
+            - Responsible for monitoring project development
+
+        -> Testers:
+            - Focus on functional and non-functional testing of the system.
+
+        -> Users:
+            - Perform acceptance testing to ensure the system meets their requirements.
+
+
+
+// =================================================================
+// =================================================================
